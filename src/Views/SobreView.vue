@@ -32,7 +32,7 @@
     text-align: justify;
     font-size: 1.1rem;
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .img {

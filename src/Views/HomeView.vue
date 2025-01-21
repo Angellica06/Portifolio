@@ -1,11 +1,11 @@
 <template>
     <section id="home" class="content d-flex justify-content-center align-items-center">
         <div class="col-12 col-md-6 text-center">
-            <!-- <span class="blur start-0"></span> -->
-            <div class="home-content">
-                <h4>Olá!</h4>
+            <div class="home-content px-3">
+                <h4 class="">Olá!</h4>
                 <h1>Eu sou <span>Angélica Anjos</span></h1>
                 <h3><span>Desenvolvedora Front-End</span></h3>
+                <p class="frase-efeito text-ligh">Inovação e criatividade em cada linha de código!</p>
             </div>
             <div class="redes-sociais d-flex justify-content-center">
                 <a href="https://www.linkedin.com/in/angélica-anjos6" target="_blank" rel="noopener noopener">
@@ -54,6 +54,13 @@
 .redes-sociais svg:hover {
     transform: scale(1.1);
     filter: drop-shadow(10px 10px 7px rgba(0, 0, 0, 0.5));
+}
+
+.frase-efeito {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--cor-9);
+    margin-top: 1rem;
 }
 
 @keyframes float {

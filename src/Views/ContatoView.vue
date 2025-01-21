@@ -45,7 +45,8 @@ const handleSubmit = async (event) => {
 <template>
     <section class="content d-flex justify-content-center align-items-center pb-5" id="contato">
         <div class="contato">
-            <h2>Contato</h2>
+            <h2 class="mb-0">Contato</h2>
+            <p class="text-center mb-5 fw-bold">Tem alguma dúvida, sugestão ou ideia? Entre em contato!</p>
             <form class="d-flex flex-column w-100" id="meuFormulario" @submit="handleSubmit">
                 <label class="text-start">Nome</label>
                 <input type="text" name="name" placeholder="Digite seu nome" autocomplete="off" required />
@@ -68,6 +69,11 @@ const handleSubmit = async (event) => {
     flex-direction: column;
     width: 80%;
     max-width: 500px;
+}
+
+.contato p {
+    font-size: 1.1rem;
+    color: var(--cor-10);
 }
 
 form label {
