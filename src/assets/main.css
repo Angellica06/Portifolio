@@ -1,0 +1,65 @@
+:root {
+  --cor-1: #121212;
+  --cor-2: #14142a;
+  --cor-3: #1d4ed8;
+  --cor-4: #2850be;
+  --cor-5: #400851;
+  --cor-6: #46044e;
+  --cor-7: #65056f;
+  --cor-8: #73167d;
+  --cor-9: #9c27a9;
+  --cor-10: #c84cd5;
+  --cor-11: #fff;
+}
+
+* {
+  font-family: poppins, sans-serif;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#app {
+  margin-top: 0;
+}
+
+.blur {
+  box-shadow: 0 0 1000px 50px var(--cor-3);
+  background: var(--cor-3);
+  position: absolute;
+}
+
+.content {
+  background: var(--cor-2);
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+  padding: 4.8rem 0;
+}
+
+span {
+  color: var(--cor-10);
+}
+
+h2 {
+  display: flex;
+  text-decoration: underline;
+  justify-content: center;
+  text-align: center;
+  font-size: 2rem;
+  color: var(--cor-10);
+  font-weight: 600;
+  padding: 1.2rem 1rem 2rem 1rem;
+}
