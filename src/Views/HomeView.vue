@@ -1,7 +1,7 @@
 <template>
     <section id="home" class="content d-flex justify-content-center align-items-center">
         <div class="col-12 col-md-6 text-center">
-            <span class="blur start-0"></span>
+            <!-- <span class="blur start-0"></span> -->
             <div class="home-content">
                 <h4>Olá!</h4>
                 <h1>Eu sou <span>Angélica Anjos</span></h1>
@@ -76,7 +76,7 @@
 @media (max-width: 980px) {
     #home {
         flex-direction: column;
-        padding-top: 6rem;
+        padding-top: 7rem;
     }
 
     .imagem img {
