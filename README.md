@@ -3,14 +3,9 @@
 ## Sobre
 Portfólio desenvolvido para apresentar minhas habilidades em front-end e projetos realizados. Foi desenvolvido para ser visualmente atrativo e funcional,
 tornando a experiência dos visitantes agradável, intuitiva e acolhedora.
-
-## 🎨 Funcionalidades
-- Página inicial com uma introdução sobre mim.
-- Seção com uma introdução sobre mim.
-- Seção com lista de habilidades técnicas com tecnologias.
-- Seção de projetos com links para o GitHub e demonstrações ao vivo
-- Formulário de contato para que recrutadores ou parceiros possam me encontrar facilmente.
-
+No portfólio, é possível encontrar uma seção onde compartilho um pouco sobre minha trajetória.
+Também há uma área dedicada às tecnologias que domino, destacando as ferramentas e linguagens que utilizo como desenvolvedora front-end.
+Além disso, exibo alguns dos meus principais projetos, com links para visualização e acesso aos repositórios no GitHub. Para facilitar a comunicação, disponibilizo um formulário de contato.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -19,7 +14,6 @@ tornando a experiência dos visitantes agradável, intuitiva e acolhedora.
 - **JavaScript**
 - **Vue.js**
 - **Bootstrap**
-
 
 ## Como rodar projeto
 
