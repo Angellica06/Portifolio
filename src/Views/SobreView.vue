@@ -4,8 +4,8 @@
         <div class="text-sobre d-flex justify-content-center my-4 align-items-center">
             <img src="/img/dev-avatar.jpg" class="img efeito-img-sobre">
             <p class="efeito-txt-sobre px-4">
-                Formada em <span>Análise e
-                    desenvolvimento de sistemas</span> pela Ucsal, sou desenvolvedora front-end apaixonada por
+                Concluí recentemente o curso de <span>Análise e
+                    Desenvolvimento de Sistemas</span> pela Ucsal, sou desenvolvedora front-end apaixonada por
                 criar interfaces intuitivas e focadas na experiência do usuário. Atualmente, estou em uma residência em
                 front-end, com ênfase em UI/UX e Angular 13+. Tenho experiência com <span>Html,
                     Css,
