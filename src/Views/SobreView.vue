@@ -7,7 +7,7 @@
                 Concluí recentemente o curso de <span>Análise e
                     Desenvolvimento de Sistemas</span> pela Ucsal, sou desenvolvedora front-end apaixonada por
                 criar interfaces intuitivas e focadas na experiência do usuário. Atualmente, estou em uma residência em
-                front-end, com ênfase em UI/UX e Angular 13+. Tenho experiência com <span>Html,
+                front-end, com foco em UI/UX e Angular 13+. Tenho experiência com <span>Html,
                     Css,
                     Javascript, Vue.js e Bootstrap</span>, onde, durante meu estágio, utilizei essas tecnologias no
                 desenvolvimento de soluções práticas e eficientes em projetos reais. Busco oportunidades para aplicar
