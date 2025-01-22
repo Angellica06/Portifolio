@@ -67,7 +67,7 @@ const handleSubmit = async (event) => {
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 80%;
+    width: 86%;
     max-width: 500px;
 }
 

@@ -5,7 +5,7 @@
                 <h4 class="">Olá!</h4>
                 <h1>Eu sou <span>Angélica Anjos</span></h1>
                 <h3><span>Desenvolvedora Front-End</span></h3>
-                <p class="frase-efeito text-ligh">Inovação e criatividade em cada linha de código!</p>
+                <p class="text-ligh">Inovação e criatividade em cada linha de código!</p>
             </div>
             <div class="redes-sociais d-flex justify-content-center">
                 <a href="https://www.linkedin.com/in/angélica-anjos6" target="_blank" rel="noopener noopener">
@@ -35,13 +35,13 @@
 .home-content h4 {
     color: var(--cor-11);
     font-family: "Roboto", sans-serif;
-    font-size: 28px;
+    font-size: 1.7rem;
     font-weight: 800;
 }
 
 .home-content h1 {
     color: var(--cor-11);
-    font-size: 36px;
+    font-size: 2.2rem;
     font-family: "Roboto", sans-serif;
     font-weight: 800;
 }
@@ -56,11 +56,11 @@
     filter: drop-shadow(10px 10px 7px rgba(0, 0, 0, 0.5));
 }
 
-.frase-efeito {
+.home-content p {
     font-size: 1.2rem;
     font-weight: 700;
     color: var(--cor-9);
-    margin-top: 1rem;
+    margin-top: .8rem;
 }
 
 @keyframes float {
@@ -88,6 +88,22 @@
 
     .imagem img {
         height: 22rem;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .home-content h3,
+    .home-content h4 {
+        font-size: 1.4rem;
+    }
+
+    .home-content h1 {
+        font-size: 1.8rem;
+    }
+
+    .home-content p {
+        font-size: 1rem;
     }
 }
 </style>
