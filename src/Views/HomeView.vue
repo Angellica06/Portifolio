@@ -1,13 +1,14 @@
 <template>
     <section id="home" class="content d-flex justify-content-center align-items-center">
-        <div class="col-12 col-md-6 text-center">
+        <div class="col-12 col-md-6">
             <div class="home-content px-3">
-                <h4 class="">Olá!</h4>
+                <h4>Olá!</h4>
                 <h1>Eu sou <span>Angélica Anjos</span></h1>
                 <h3><span>Desenvolvedora Front-End</span></h3>
-                <p class="text-ligh">Inovação e criatividade em cada linha de código!</p>
+                <p class="text-ligh mb-1">Amo a arte de unir criatividade e lógica para transformar ideias em interfaces
+                    funcionais.</p>
             </div>
-            <div class="redes-sociais d-flex justify-content-center">
+            <div class="redes-sociais">
                 <a href="https://www.linkedin.com/in/angélica-anjos6" target="_blank" rel="noopener noopener">
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-linkedin"
                         viewBox="0 0 16 16">
@@ -31,6 +32,10 @@
 </template>
 
 <style scoped>
+.home-content {
+    margin-left: 7rem;
+}
+
 .home-content h3,
 .home-content h4 {
     color: var(--cor-11);
@@ -44,6 +49,10 @@
     font-size: 2.2rem;
     font-family: "Roboto", sans-serif;
     font-weight: 800;
+}
+
+#home .redes-sociais {
+    margin-left: 7.8rem;
 }
 
 #home .redes-sociais svg {
@@ -84,6 +93,11 @@
     #home {
         flex-direction: column;
         padding-top: 7rem;
+    }
+
+    .home-content, #home .redes-sociais {
+        text-align: center;
+        margin: 0;
     }
 
     .imagem img {
