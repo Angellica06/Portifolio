@@ -1,29 +1,33 @@
-# portifolio-1
+# 🌟 Meu Portfólio
 
-This template should help get you started developing with Vue 3 in Vite.
+## Sobre
+Portfólio desenvolvido para apresentar minhas habilidades em front-end e projetos realizados. Foi desenvolvido para ser visualmente atrativo e funcional,
+tornando a experiência dos visitantes agradável, intuitiva e acolhedora.
+No portfólio, é possível encontrar uma seção onde compartilho um pouco sobre minha trajetória.
+Também há uma área dedicada às tecnologias que domino, destacando as ferramentas e linguagens que utilizo como desenvolvedora front-end.
+Além disso, exibo alguns dos meus principais projetos, com links para visualização e acesso aos repositórios no GitHub. Para facilitar a comunicação, disponibilizo um formulário de contato.
 
-## Recommended IDE Setup
+## 🛠️ Tecnologias Utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Vue.js**
+- **Bootstrap**
 
-## Customize configuration
+## Como rodar projeto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
+Instale as dependências:
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+Inicie o projeto:
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+Link do deploy: https://angelicadev.netlify.app/
 
-```sh
-npm run build
-```
+
+![Captura de tela 2025-01-22 165657](https://github.com/user-attachments/assets/522f05e6-4927-45f3-8fc3-c81686f13f3a)
