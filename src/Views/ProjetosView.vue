@@ -35,11 +35,11 @@ const projects = [
     },
     {
         id: 3,
-        title: 'Calculadora IMC',
-        description: 'Uma calculadora de IMC (Índice de Massa Corporal) criada com HTML, CSS e JavaScript. A aplicação permite inserir o peso e altura do usuário e exibe sua classificação, ajudando a acompanhar a saúde de forma prática. O design é simples e funcional.',
+        title: 'FilmBox',
+        description: 'Uma aplicação web desenvolvida com Html, Css, JavaScript, Vue.js e Bootstrap que exibe os filmes e séries mais populares, consumindo dados da API do TMDb. O projeto permite pesquisar títulos e revisar detalhes como descrição, dados de lançamento e avaliação.',
         image: '/img/projeto3.png',
-        viewLink: 'https://calculadora-imc13.netlify.app/',
-        repoLink: 'https://github.com/Angellica06/Calculadora_IMC?tab=readme-ov-file',
+        viewLink: 'https://filmbox1.netlify.app/',
+        repoLink: 'https://github.com/Angellica06/FilmBox',
     }
 ];
 </script>
