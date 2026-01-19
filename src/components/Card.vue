@@ -31,7 +31,7 @@ const props = defineProps({
 
 <style>
 .card {
-    max-width: 24rem;
+    max-width: 25rem;
     border-radius: 0.8rem;
     border: 0;
     background-color: var(--cor-7) !important;

@@ -19,11 +19,11 @@ import Card from '@/components/Card.vue';
 const projects = [
     {
         id: 1,
-        title: 'Dashboard',
-        description: 'Projeto que simula um dashboard de vendas, desenvolvido com Vue.js, HTML, CSS, Bootstrap e Chart.js. A aplicação exibe gráficos interativos e responsivos, utilizando dados estáticos para apresentar informações de vendas de forma visual e dinâmica.',
+        title: 'ImovelHome',
+        description: 'Projeto de site institucional para imobiliária fictícia, desenvolvido com React, React Router e Tailwind CSS. A aplicação apresenta navegação fluida, layout responsivo e páginas bem estruturadas, destacando imóveis e informações da empresa.',
         image: '/img/projeto1.png',
-        viewLink: 'https://dashboardvenda.netlify.app/',
-        repoLink: 'https://github.com/Angellica06/Dashboard',
+        viewLink: 'https://imovel-home.netlify.app/',
+        repoLink: 'https://github.com/Angellica06/ImovelHome',
     },
     {
         id: 2,
